@@ -6,3 +6,4 @@ Script starts analyzing prices on 2 sites:
 -elif price difference from tstn.by and e-stroyka.by lover than 12%-color of item in excel is orange.
 -elif price of item on e-stroyka.by higher than tstn.by - item in excel red.
 If u need source code, please contact me on mail bogdan2371z@gmail.com.
+After writing this parser i get paid approximately 200$.
