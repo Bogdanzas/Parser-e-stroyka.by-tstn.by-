@@ -1,5 +1,5 @@
 # Parser-e-stroyka.by-tstn.by-
-Have you ever wondered why prices from 2nd suppliers are cheaper than the manufacturer?\n
+Have you ever wondered why prices from 2nd suppliers are cheaper than the manufacturer?
 This script 1stly parses names and prices of items from site e-stroyka.by after that it parses site tstn.by.
 Script starts analyzing prices on 2 sites:
 -if price difference from tstn.by and e-stroyka.by lover than 8%-color of item in excel is white.
